@@ -1,0 +1,17 @@
+@import './variables.css';
+@import './common.css';
+@import './page.css';
+@import './container.css';
+@import './button.css';
+@import './list.css';
+@import './student.css';
+@import './header.css';
+@import './subheader.css';
+@import './footer.css';
+@import './form-control.css';
+
+.add-form__inner {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}

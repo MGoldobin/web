@@ -1,0 +1,11 @@
+.container {
+    width: auto;
+    margin: 0 var(--base-spacing);
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .container {
+      width: calc(var(--container-width));
+      margin: 0 auto;
+    }
+  }

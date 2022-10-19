@@ -1,0 +1,11 @@
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 4px 8px;
+    line-height: 1.5;
+    color: #282E3A;
+    background-color: #fff;
+    border: 1px solid #ececec;
+    border-radius: 4px;
+  }
+  
